@@ -4,7 +4,8 @@
     "description": "Node.js + MongoDB: JWT Authentication & Authorisation",
     "main": "app.js",
     "scripts": {
-      "devStart": "nodemon app.js"
+      "devStart": "nodemon app.js",
+        "start": "node app.js"
     },
     "keywords": [
       "node.js",
